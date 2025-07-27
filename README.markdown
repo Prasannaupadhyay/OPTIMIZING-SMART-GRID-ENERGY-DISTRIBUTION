@@ -108,12 +108,8 @@ smart-grid-optimization/
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For questions or suggestions, please open an issue on GitHub or contact the repository owner.
 
----
+
 
 *Generated on July 27, 2025*
